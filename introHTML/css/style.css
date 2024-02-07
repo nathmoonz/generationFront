@@ -42,3 +42,27 @@ body {
     margin: 0 auto;
     max-width: 45%;
 }
+
+.img-tecs {
+    padding: 30px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista-soft-skill {
+    padding-top: 30px;
+    font-weight: bold;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    bottom: 0;
+    background-position: center center;
+    background-image: url("/assests/estilo-de-desenho-de-ilustracao-de-cachorro_53876-36827.jpg");
+    background-color: white;
+}
